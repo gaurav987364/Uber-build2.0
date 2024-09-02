@@ -1,0 +1,14 @@
+@import '~leaflet/dist/leaflet.css';
+
+h1,
+p {
+  font-family: Lato;
+}
+
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+  margin: 0;
+}

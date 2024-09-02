@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '~leaflet/dist/leaflet.css';
+
+@keyframes scroll {
+    70% {
+      transform: translateX(100%);
+    }
+    30% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll {
+    animation: scroll 20s linear infinite alternate;
+    white-space: nowrap;
+  }
+  
+  

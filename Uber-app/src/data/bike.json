@@ -1,0 +1,305 @@
+{
+  "products": [
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b123aae7-b4d6-4152-91cc-77523e8121a4",
+      "price_details": {
+        "service_fees": [],
+        "cost_per_minute": 0.3,
+        "distance_unit": "mile",
+        "minimum": 5,
+        "cost_per_distance": 1.8,
+        "base": 3,
+        "cancellation_fee": 3,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p1.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "STANDARD BIKE",
+      "display_name": "STANDARD",
+      "product_group": "bike",
+      "description": "Reliable bikes for a quick trip.",
+      "time_away": "3 mins away"
+    },
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b26546650-9d57-4a7b-86e7-6a3942445247",
+      "price_details": {
+        "service_fees": [
+          {
+            "fee": 1,
+            "name": "Booking fee"
+          }
+        ],
+        "cost_per_minute": 0.2,
+        "distance_unit": "mile",
+        "minimum": 4,
+        "cost_per_distance": 1.2,
+        "base": 2,
+        "cancellation_fee": 2.5,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p2.png",
+      "cash_enabled": false,
+      "shared": true,
+      "short_description": "SHARED BIKE",
+      "display_name": "SHARED",
+      "product_group": "bike",
+      "description": "Cost-effective bike sharing.",
+      "time_away": "5 mins away"
+    },
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b345002b-9d00-4411-98e1-673b244878b2",
+      "price_details": {
+        "service_fees": [
+          {
+            "fee": 0.75,
+            "name": "Booking fee"
+          }
+        ],
+        "cost_per_minute": 0.25,
+        "distance_unit": "km",
+        "minimum": 4.5,
+        "cost_per_distance": 0.9,
+        "base": 2,
+        "cancellation_fee": 3,
+        "currency_code": "EUR"
+      },
+      "image": "../../public/bike_p3.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "CITY BIKE",
+      "display_name": "CITY",
+      "product_group": "bike",
+      "description": "Bikes perfect for urban commuting.",
+      "time_away": "6 mins away"
+    },
+    {
+      "upfront_fare_enabled": false,
+      "capacity": 1,
+      "product_id": "b3d67887-4d42-4c8e-9780-ccecd3a0391d",
+      "price_details": {
+        "service_fees": [],
+        "cost_per_minute": 0.35,
+        "distance_unit": "mile",
+        "minimum": 3,
+        "cost_per_distance": 1.5,
+        "base": 2.5,
+        "cancellation_fee": 2,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p4.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "ELECTRIC BIKE",
+      "display_name": "ELECTRIC",
+      "product_group": "bike",
+      "description": "Electric bikes for extra speed.",
+      "time_away": "4 mins away"
+    },
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b4123f30e-1d2e-4d61-8a0c-f5e34b5a1e13",
+      "price_details": {
+        "service_fees": [],
+        "cost_per_minute": 0.5,
+        "distance_unit": "mile",
+        "minimum": 6,
+        "cost_per_distance": 2.1,
+        "base": 4,
+        "cancellation_fee": 4,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p5.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "PREMIUM BIKE",
+      "display_name": "PREMIUM",
+      "product_group": "bike",
+      "description": "High-quality bikes for special trips.",
+      "time_away": "7 mins away"
+    },
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b5234f30e-2d2e-4d61-8a0c-f5e34b5a1e15",
+      "price_details": {
+        "service_fees": [],
+        "cost_per_minute": 0.4,
+        "distance_unit": "mile",
+        "minimum": 5,
+        "cost_per_distance": 1.9,
+        "base": 3.5,
+        "cancellation_fee": 3.5,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p6.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "SPORT BIKE",
+      "display_name": "SPORT",
+      "product_group": "bike",
+      "description": "Fast bikes for sporty rides.",
+      "time_away": "4 mins away"
+    },
+    {
+      "upfront_fare_enabled": false,
+      "capacity": 1,
+      "product_id": "b6345f30e-3d2e-4d61-8a0c-f5e34b5a1e16",
+      "price_details": {
+        "service_fees": [
+          {
+            "fee": 0.5,
+            "name": "Booking fee"
+          }
+        ],
+        "cost_per_minute": 0.3,
+        "distance_unit": "km",
+        "minimum": 3.5,
+        "cost_per_distance": 1.1,
+        "base": 2,
+        "cancellation_fee": 2,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p7.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "CLASSIC BIKE",
+      "display_name": "CLASSIC",
+      "product_group": "bike",
+      "description": "Classic bikes for a traditional ride.",
+      "time_away": "8 mins away"
+    },
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b7456f30e-4d2e-4d61-8a0c-f5e34b5a1e17",
+      "price_details": {
+        "service_fees": [],
+        "cost_per_minute": 0.35,
+        "distance_unit": "mile",
+        "minimum": 4,
+        "cost_per_distance": 1.4,
+        "base": 3,
+        "cancellation_fee": 2.5,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p8.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "MOUNTAIN BIKE",
+      "display_name": "MOUNTAIN",
+      "product_group": "bike",
+      "description": "Robust bikes for rough terrains.",
+      "time_away": "9 mins away"
+    },
+    {
+      "upfront_fare_enabled": false,
+      "capacity": 1,
+      "product_id": "b8567f30e-5d2e-4d61-8a0c-f5e34b5a1e18",
+      "price_details": {
+        "service_fees": [
+          {
+            "fee": 0.6,
+            "name": "Booking fee"
+          }
+        ],
+        "cost_per_minute": 0.4,
+        "distance_unit": "km",
+        "minimum": 5,
+        "cost_per_distance": 1.3,
+        "base": 2.5,
+        "cancellation_fee": 3,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p9.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "FOLDING BIKE",
+      "display_name": "FOLDING",
+      "product_group": "bike",
+      "description": "Compact bikes for easy storage.",
+      "time_away": "6 mins away"
+    },
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b9678f30e-6d2e-4d61-8a0c-f5e34b5a1e19",
+      "price_details": {
+        "service_fees": [],
+        "cost_per_minute": 0.45,
+        "distance_unit": "mile",
+        "minimum": 5.5,
+        "cost_per_distance": 2.0,
+        "base": 3.5,
+        "cancellation_fee": 3.5,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p10.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "CRUISER BIKE",
+      "display_name": "CRUISER",
+      "product_group": "bike",
+      "description": "Comfortable bikes for relaxed rides.",
+      "time_away": "7 mins away"
+    },
+    {
+      "upfront_fare_enabled": true,
+      "capacity": 1,
+      "product_id": "b0789f30e-7d2e-4d61-8a0c-f5e34b5a1e20",
+      "price_details": {
+        "service_fees": [],
+        "cost_per_minute": 0.35,
+        "distance_unit": "mile",
+        "minimum": 4.5,
+        "cost_per_distance": 1.6,
+        "base": 2.5,
+        "cancellation_fee": 2.5,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p11.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "URBAN BIKE",
+      "display_name": "URBAN",
+      "product_group": "bike",
+      "description": "Stylish bikes for city rides.",
+      "time_away": "5 mins away"
+    },
+    {
+      "upfront_fare_enabled": false,
+      "capacity": 1,
+      "product_id": "b1890f30e-8d2e-4d61-8a0c-f5e34b5a1e21",
+      "price_details": {
+        "service_fees": [
+          {
+            "fee": 0.7,
+            "name": "Booking fee"
+          }
+        ],
+        "cost_per_minute": 0.5,
+        "distance_unit": "km",
+        "minimum": 6,
+        "cost_per_distance": 1.8,
+        "base": 3,
+        "cancellation_fee": 3,
+        "currency_code": "USD"
+      },
+      "image": "../../public/bike_p12.png",
+      "cash_enabled": false,
+      "shared": false,
+      "short_description": "BIKE RENTAL",
+      "display_name": "RENTAL",
+      "product_group": "bike",
+      "description": "Rental bikes for short-term use.",
+      "time_away": "10 mins away"
+    }
+  ]
+}

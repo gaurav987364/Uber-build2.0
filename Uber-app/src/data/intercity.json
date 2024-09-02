@@ -1,0 +1,194 @@
+{
+    "products": [
+        
+  {
+    "upfront_fare_enabled": true,
+    "capacity": 4,
+    "product_id": "c65c9d17-a463-4b5f-bb5f-9e65ab287dae",
+    "price_details": {
+      "service_fees": [
+        {
+          "fee": 2.5,
+          "name": "Booking fee"
+        }
+      ],
+      "cost_per_minute": 0.9,
+      "distance_unit": "km",
+      "minimum": 12,
+      "cost_per_distance": 3.8,
+      "base": 9,
+      "cancellation_fee": 12,
+      "currency_code": "AUD"
+    },
+    "image": "../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "PREMIER",
+    "display_name": "PREMIER",
+    "product_group": "uberpremier",
+    "description": "High-end cars for your business and personal needs.",
+    "time_away": "40 mins away"
+  },
+  {
+    "upfront_fare_enabled": true,
+    "capacity": 6,
+    "product_id": "3ab64887-4842-4c8e-9780-ccecd3a0391d",
+    "price_details": {
+      "service_fees": [],
+      "cost_per_minute": 0.85,
+      "distance_unit": "mile",
+      "minimum": 20,
+      "cost_per_distance": 5.5,
+      "base": 12,
+      "cancellation_fee": 15,
+      "currency_code": "USD"
+    },
+    "image": "../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "EXECUTIVE",
+    "display_name": "EXECUTIVE",
+    "product_group": "uberexecutive",
+    "description": "Luxury rides with top-tier vehicles.",
+    "time_away": "45 mins away"
+  },
+  {
+    "upfront_fare_enabled": false,
+    "capacity": 4,
+    "product_id": "64f64887-5732-4c8e-9780-ccecd3a0391d",
+    "price_details": {
+      "service_fees": [],
+      "cost_per_minute": 0.6,
+      "distance_unit": "mile",
+      "minimum": 11,
+      "cost_per_distance": 3.2,
+      "base": 7,
+      "cancellation_fee": 9,
+      "currency_code": "USD"
+    },
+    "image": "../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "LUX",
+    "display_name": "LUX",
+    "product_group": "uberlux",
+    "description": "Premium rides for special occasions.",
+    "time_away": "35 mins away"
+  },
+  {
+    "upfront_fare_enabled": true,
+    "capacity": 4,
+    "product_id": "72f64887-4842-4c8e-9780-ccecd3a0391d",
+    "price_details": {
+      "service_fees": [],
+      "cost_per_minute": 0.4,
+      "distance_unit": "km",
+      "minimum": 8,
+      "cost_per_distance": 1.9,
+      "base": 4,
+      "cancellation_fee": 10,
+      "currency_code": "AUD"
+    },
+    "image":"../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "uberGO",
+    "display_name": "uberGO",
+    "product_group": "ubergox",
+    "description": "Affordable rides for everyday needs.",
+    "time_away": "20 mins away"
+  },
+  {
+    "upfront_fare_enabled": false,
+    "capacity": 4,
+    "product_id": "23b64887-4c8e-9780-ccecd3a0391d",
+    "price_details": {
+      "service_fees": [],
+      "cost_per_minute": 0.45,
+      "distance_unit": "mile",
+      "minimum": 6,
+      "cost_per_distance": 1.7,
+      "base": 5,
+      "cancellation_fee": 8,
+      "currency_code": "USD"
+    },
+    "image":"../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "Comfort",
+    "display_name": "Comfort",
+    "product_group": "ubercomfort",
+    "description": "Rides with extra legroom and newer cars.",
+    "time_away": "15 mins away"
+  },
+  {
+    "upfront_fare_enabled": true,
+    "capacity": 2,
+    "product_id": "9b2d45ac-9848-42e1-87b6-ccecd3a0391d",
+    "price_details": {
+      "service_fees": [],
+      "cost_per_minute": 0.35,
+      "distance_unit": "mile",
+      "minimum": 4.5,
+      "cost_per_distance": 1.3,
+      "base": 2.5,
+      "cancellation_fee": 6,
+      "currency_code": "USD"
+    },
+    "image": "../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "Green",
+    "display_name": "Green",
+    "product_group": "ubergreen",
+    "description": "Eco-friendly rides with electric vehicles.",
+    "time_away": "16 mins away"
+  },
+  {
+    "upfront_fare_enabled": true,
+    "capacity": 6,
+    "product_id": "d5ab64887-4342-4c8e-9780-ccecd3a0391d",
+    "price_details": {
+      "service_fees": [],
+      "cost_per_minute": 0.55,
+      "distance_unit": "km",
+      "minimum": 12,
+      "cost_per_distance": 2.2,
+      "base": 8,
+      "cancellation_fee": 10,
+      "currency_code": "AUD"
+    },
+    "image": "../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "uberMAX",
+    "display_name": "uberMAX",
+    "product_group": "ubermax",
+    "description": "Spacious rides for large groups.",
+    "time_away": "55 mins away"
+  },
+  {
+    "upfront_fare_enabled": false,
+    "capacity": 4,
+    "product_id": "r4g64887-4842-4c8e-9780-ccecd3a0391d",
+    "price_details": {
+      "service_fees": [],
+      "cost_per_minute": 0.5,
+      "distance_unit": "mile",
+      "minimum": 9.5,
+      "cost_per_distance": 2.6,
+      "base": 7,
+      "cancellation_fee": 8,
+      "currency_code": "USD"
+    },
+    "image":"../../public/car_p3.png",
+    "cash_enabled": false,
+    "shared": false,
+    "short_description": "Luxury",
+    "display_name": "Luxury",
+    "product_group": "uberluxury",
+    "description": "Top-of-the-line vehicles for luxury rides.",
+    "time_away": "50 mins away"
+  }
+    ]
+}

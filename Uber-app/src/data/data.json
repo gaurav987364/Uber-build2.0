@@ -1,0 +1,181 @@
+{
+    "products": [
+      {
+        "upfront_fare_enabled": true,
+        "capacity": 4,
+        "product_id": "d4abaae7-f4d6-4152-91cc-77523e8165a4",
+        "price_details": {
+          "service_fees": [],
+          "cost_per_minute": 0.65,
+          "distance_unit": "mile",
+          "minimum": 15,
+          "cost_per_distance": 3.75,
+          "base": 8,
+          "cancellation_fee": 10,
+          "currency_code": "USD"
+        },
+        "image": "../../public/ride (1).png",
+        "cash_enabled": false,
+        "shared": false,
+        "short_description": "BLACK",
+        "display_name": "GO Sedan",
+        "product_group": "uberblack",
+        "description": "Affordable sedans",
+        "time_away": "6 mins away"
+      },
+      {
+        "upfront_fare_enabled": true,
+        "capacity": 1,
+        "product_id": "26546650-e557-4a7b-86e7-6a3942445247",
+        "price_details": {
+          "service_fees": [
+            {
+              "fee": 2,
+              "name": "Booking fee"
+            }
+          ],
+          "cost_per_minute": 0.15,
+          "distance_unit": "mile",
+          "minimum": 7.45,
+          "cost_per_distance": 1.1,
+          "base": 2,
+          "cancellation_fee": 5,
+          "currency_code": "USD"
+        },
+        "image":"../../public/Uber_Moto_India1.png",
+        "cash_enabled": false,
+        "shared": true,
+        "short_description": "POOL",
+        "display_name": "MOTO",
+        "product_group": "rideshare",
+        "description": "Affordable, motorcycle rides.",
+        "time_away": "20 mins away"
+      },
+      {
+        "upfront_fare_enabled": false,
+        "capacity": 6,
+        "product_id": "2d1d002b-d4d0-4411-98e1-673b244878b2",
+        "price_details": {
+          "service_fees": [
+            {
+              "fee": 0.55,
+              "name": "Booking fee"
+            }
+          ],
+          "cost_per_minute": 0.4,
+          "distance_unit": "km",
+          "minimum": 9,
+          "cost_per_distance": 1.45,
+          "base": 2.5,
+          "cancellation_fee": 10,
+          "currency_code": "AUD"
+        },
+        "image": "../../public/package_UberXL_new_2022.png",
+        "cash_enabled": false,
+        "shared": false,
+        "short_description": "uberX",
+        "display_name": "UberXL",
+        "product_group": "uberx",
+        "description": "comfortable SUVs",
+        "time_away": "9 mins away"
+      },
+      {
+        "upfront_fare_enabled": false,
+        "capacity": 4,
+        "product_id": "3ab64887-4842-4c8e-9780-ccecd3a0391d",
+        "price_details": {
+          "service_fees": [],
+          "cost_per_minute": 0.55,
+          "distance_unit": "mile",
+          "minimum": 3.5,
+          "cost_per_distance": 2.75,
+          "base": 3.5,
+          "cancellation_fee": 5,
+          "currency_code": "USD"
+        },
+        "image": "../../public/ride (1).png",
+        "cash_enabled": false,
+        "shared": false,
+        "short_description": "TAXI",
+        "display_name": "Uber Go",
+        "product_group": "taxi",
+        "description": "affordable compact rides.",
+        "time_away": "16 mins away"
+      },
+      {
+        "upfront_fare_enabled": true,
+        "capacity": 4,
+        "product_id": "5a22f30e-8a2e-4d61-8a0c-f5e34b5a1e13",
+        "price_details": {
+          "service_fees": [],
+          "cost_per_minute": 0.75,
+          "distance_unit": "mile",
+          "minimum": 18,
+          "cost_per_distance": 4.2,
+          "base": 10,
+          "cancellation_fee": 15,
+          "currency_code": "USD"
+        },
+        "image": "../../public/Hourly2021.png",
+        "cash_enabled": false,
+        "shared": false,
+        "short_description": "UBERXL",
+        "display_name": "Request Any",
+        "product_group": "uberxl",
+        "description": "Save time with first available rides.",
+        "time_away": "7 mins away"
+      },
+      {
+        "upfront_fare_enabled": true,
+        "capacity": 4,
+        "product_id": "a7d94e12-f416-4c1b-9a4b-e3b3419d285d",
+        "price_details": {
+          "service_fees": [
+            {
+              "fee": 1.5,
+              "name": "Service fee"
+            }
+          ],
+          "cost_per_minute": 0.3,
+          "distance_unit": "mile",
+          "minimum": 5,
+          "cost_per_distance": 1.2,
+          "base": 3,
+          "cancellation_fee": 6,
+          "currency_code": "USD"
+        },
+        "image": "../../public/package_UberComfort_new_2022.png",
+        "cash_enabled": false,
+        "shared": true,
+        "short_description": "POOL",
+        "display_name": "Premier",
+        "product_group": "rideshare",
+        "description": "comfortable sedans , top-quality drivers ",
+        "time_away": "5 mins away"
+      },
+      {
+        "upfront_fare_enabled": false,
+        "capacity": 4,
+        "product_id": "0e24a8f3-95c6-48af-939d-964d7fbeef95",
+        "price_details": {
+          "service_fees": [],
+          "cost_per_minute": 0.5,
+          "distance_unit": "mile",
+          "minimum": 10,
+          "cost_per_distance": 2.5,
+          "base": 6,
+          "cancellation_fee": 8,
+          "currency_code": "USD"
+        },
+        "image": "../../public/Hire_Comfort_v1.png",
+        "cash_enabled": false,
+        "shared": false,
+        "short_description": "SUV",
+        "display_name": "Go Rental",
+        "product_group": "ubersuv",
+        "description": "Compact cars for multiple stops.",
+        "time_away": "12 mins away"
+      }
+    ]
+  }
+  
